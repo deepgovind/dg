@@ -1,0 +1,5 @@
+java -jar VtaTyperEnHi.jar Hi
+or
+VtaTyperEnHi.exe Hi or En 
+or 
+java -jar VtaTyperEnHi.jar -h
